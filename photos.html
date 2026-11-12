@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Photos | Jarbin Wang</title>
+<link rel="stylesheet" href="style.css?v=20261111-black-points">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="top-bar">
+<div class="top-bar-content">
+<a class="logo-on-top" href="index.html">Jarbin Wang</a>
+<nav class="nav-on-top" aria-label="Main navigation">
+<a href="index.html">Home</a>
+<a href="research.html">Research</a>
+<a href="publications.html">Publications</a>
+<a href="spatial-curation.html">Spatial Curation</a>
+<a href="photos.html" aria-current="page">Photos</a>
+</nav>
+</div>
+</div>
+<main id="main" class="photos-page"><header class="photos-heading"><h1>Photos</h1><p>Places encountered. Moments kept.</p></header>
+<section class="travel-section" aria-labelledby="travel-title"><div class="map-heading"><h2 id="travel-title">A geography of encounters</h2><span id="place-count" class="eyebrow">Places</span></div><div class="travel-map" id="travel-map"><svg id="world-map" viewBox="-180 -85 360 170" role="img" aria-label="World coastline map showing visited places"><title>Visited places</title><g id="map-grid" aria-hidden="true"></g><g id="map-land" aria-hidden="true"></g><g id="map-points"></g></svg><div class="map-controls" aria-label="Map controls"><button type="button" id="zoom-in" aria-label="Zoom in">+</button><button type="button" id="zoom-out" aria-label="Zoom out">−</button><button type="button" id="fit-map">Fit places</button><button type="button" id="world-view">World</button></div><p id="map-status" role="status">Loading map…</p></div></section>
+<section class="photography-section" aria-labelledby="photography-title"><div class="gallery-heading"><h2 id="photography-title">Selected frames</h2><span class="eyebrow">01—10</span></div><div id="photo-gallery" class="photo-gallery"></div><noscript><p>Enable JavaScript to browse the photography collection.</p></noscript></section>
+<dialog id="photo-lightbox" aria-label="Photograph viewer"><button id="close-photo" class="lightbox-close" aria-label="Close photograph">×</button><button id="previous-photo" class="lightbox-prev" aria-label="Previous photograph">←</button><figure><img id="lightbox-image" alt=""><figcaption id="lightbox-caption"></figcaption></figure><button id="next-photo" class="lightbox-next" aria-label="Next photograph">→</button></dialog></main>
+<footer class="site-footer">
+<span>© <span id="year">2026</span> Jarbin Wang. All rights reserved.</span>
+<span>Connecting the dots</span>
+</footer>
+<script>document.querySelector("#year").textContent=new Date().getFullYear();</script>
+<script src="photos.js?v=41-english" defer></script></body>
+</html>
