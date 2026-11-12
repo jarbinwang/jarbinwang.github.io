@@ -1,0 +1,72 @@
+[
+  {
+    "src": "images/photography/photo-01.jpg",
+    "width": 5584,
+    "height": 8368,
+    "alt": "Photographic work 01",
+    "title": "Frame 01"
+  },
+  {
+    "src": "images/photography/photo-02.jpg",
+    "width": 1396,
+    "height": 2092,
+    "alt": "Photographic work 02",
+    "title": "Frame 02"
+  },
+  {
+    "src": "images/photography/photo-03.jpg",
+    "width": 3586,
+    "height": 4864,
+    "alt": "Photographic work 03",
+    "title": "Frame 03"
+  },
+  {
+    "src": "images/photography/photo-04.jpg",
+    "width": 1932,
+    "height": 1288,
+    "alt": "Photographic work 04",
+    "title": "Frame 04"
+  },
+  {
+    "src": "images/photography/photo-05.jpg",
+    "width": 3984,
+    "height": 2656,
+    "alt": "Photographic work 05",
+    "title": "Frame 05"
+  },
+  {
+    "src": "images/photography/photo-06.jpg",
+    "width": 1551,
+    "height": 1280,
+    "alt": "Photographic work 06",
+    "title": "Frame 06"
+  },
+  {
+    "src": "images/photography/photo-07.jpg",
+    "width": 5152,
+    "height": 7728,
+    "alt": "Photographic work 07",
+    "title": "Frame 07"
+  },
+  {
+    "src": "images/photography/photo-08.jpg",
+    "width": 1280,
+    "height": 1920,
+    "alt": "Photographic work 08",
+    "title": "Frame 08"
+  },
+  {
+    "src": "images/photography/photo-09.jpg",
+    "width": 1737,
+    "height": 1288,
+    "alt": "Photographic work 09",
+    "title": "Frame 09"
+  },
+  {
+    "src": "images/photography/photo-10.jpg",
+    "width": 1280,
+    "height": 1918,
+    "alt": "Photographic work 10",
+    "title": "Frame 10"
+  }
+]

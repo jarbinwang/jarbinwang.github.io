@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Montreal",
+    "name_zh": "蒙特利尔",
+    "lat": 45.502,
+    "lng": -73.567
+  },
+  {
+    "name": "Moscow",
+    "name_zh": "莫斯科",
+    "lat": 55.756,
+    "lng": 37.617
+  },
+  {
+    "name": "Saint Petersburg",
+    "name_zh": "圣彼得堡",
+    "lat": 59.934,
+    "lng": 30.335
+  },
+  {
+    "name": "Seoul",
+    "name_zh": "首尔",
+    "lat": 37.566,
+    "lng": 126.978
+  },
+  {
+    "name": "San Francisco",
+    "name_zh": "旧金山",
+    "lat": 37.775,
+    "lng": -122.419
+  },
+  {
+    "name": "Tokyo",
+    "name_zh": "东京",
+    "lat": 35.676,
+    "lng": 139.65
+  },
+  {
+    "name": "Kyoto",
+    "name_zh": "京都",
+    "lat": 35.012,
+    "lng": 135.768
+  },
+  {
+    "name": "Izu",
+    "name_zh": "伊豆",
+    "lat": 34.976,
+    "lng": 138.947
+  },
+  {
+    "name": "Beijing",
+    "name_zh": "北京",
+    "lat": 39.904,
+    "lng": 116.407
+  },
+  {
+    "name": "Ningbo",
+    "name_zh": "宁波",
+    "lat": 29.868,
+    "lng": 121.544
+  },
+  {
+    "name": "Zhuhai",
+    "name_zh": "珠海",
+    "lat": 22.271,
+    "lng": 113.577
+  },
+  {
+    "name": "Macao",
+    "name_zh": "澳门",
+    "lat": 22.198,
+    "lng": 113.544
+  },
+  {
+    "name": "Hong Kong",
+    "name_zh": "香港",
+    "lat": 22.319,
+    "lng": 114.169
+  },
+  {
+    "name": "Shenzhen",
+    "name_zh": "深圳",
+    "lat": 22.543,
+    "lng": 114.058
+  },
+  {
+    "name": "Guangzhou",
+    "name_zh": "广州",
+    "lat": 23.129,
+    "lng": 113.264
+  },
+  {
+    "name": "Kunming",
+    "name_zh": "昆明",
+    "lat": 25.038,
+    "lng": 102.718
+  },
+  {
+    "name": "Shangri-La",
+    "name_zh": "香格里拉",
+    "lat": 27.83,
+    "lng": 99.704
+  },
+  {
+    "name": "Lijiang",
+    "name_zh": "丽江",
+    "lat": 26.872,
+    "lng": 100.23
+  },
+  {
+    "name": "Dali",
+    "name_zh": "大理",
+    "lat": 25.607,
+    "lng": 100.267
+  },
+  {
+    "name": "Lugu Lake",
+    "name_zh": "泸沽湖",
+    "lat": 27.7,
+    "lng": 100.78
+  },
+  {
+    "name": "Ili",
+    "name_zh": "伊犁",
+    "lat": 43.922,
+    "lng": 81.324
+  },
+  {
+    "name": "Urumqi",
+    "name_zh": "乌鲁木齐",
+    "lat": 43.825,
+    "lng": 87.617
+  },
+  {
+    "name": "Wuhan",
+    "name_zh": "武汉",
+    "lat": 30.593,
+    "lng": 114.305
+  },
+  {
+    "name": "Chengdu",
+    "name_zh": "成都",
+    "lat": 30.573,
+    "lng": 104.067
+  },
+  {
+    "name": "Beidaihe",
+    "name_zh": "北戴河",
+    "lat": 39.835,
+    "lng": 119.484
+  },
+  {
+    "name": "Nanjing",
+    "name_zh": "南京",
+    "lat": 32.06,
+    "lng": 118.797
+  },
+  {
+    "name": "Suzhou",
+    "name_zh": "苏州",
+    "lat": 31.299,
+    "lng": 120.585
+  },
+  {
+    "name": "Xuzhou",
+    "name_zh": "徐州",
+    "lat": 34.205,
+    "lng": 117.284
+  },
+  {
+    "name": "Shaoxing",
+    "name_zh": "绍兴",
+    "lat": 30,
+    "lng": 120.583
+  },
+  {
+    "name": "Zhoushan",
+    "name_zh": "舟山",
+    "lat": 29.985,
+    "lng": 122.207
+  },
+  {
+    "name": "Hangzhou",
+    "name_zh": "杭州",
+    "lat": 30.274,
+    "lng": 120.155
+  },
+  {
+    "name": "Xiamen",
+    "name_zh": "厦门",
+    "lat": 24.48,
+    "lng": 118.089
+  },
+  {
+    "name": "Taizhou",
+    "name_zh": "台州",
+    "lat": 28.657,
+    "lng": 121.421
+  },
+  {
+    "name": "Qingdao",
+    "name_zh": "青岛",
+    "lat": 36.067,
+    "lng": 120.383
+  },
+  {
+    "name": "Yantai",
+    "name_zh": "烟台",
+    "lat": 37.463,
+    "lng": 121.448
+  },
+  {
+    "name": "Tianjin",
+    "name_zh": "天津",
+    "lat": 39.084,
+    "lng": 117.201
+  },
+  {
+    "name": "Xi’an",
+    "name_zh": "西安",
+    "lat": 34.342,
+    "lng": 108.94
+  },
+  {
+    "name": "Changsha",
+    "name_zh": "长沙",
+    "lat": 28.228,
+    "lng": 112.939
+  },
+  {
+    "name": "Changde",
+    "name_zh": "常德",
+    "lat": 29.032,
+    "lng": 111.699
+  },
+  {
+    "name": "Yueyang",
+    "name_zh": "岳阳",
+    "lat": 29.357,
+    "lng": 113.129
+  },
+  {
+    "name": "Las Vegas",
+    "name_zh": "拉斯维加斯",
+    "lat": 36.17,
+    "lng": -115.14
+  }
+]
